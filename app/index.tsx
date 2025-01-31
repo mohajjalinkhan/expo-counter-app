@@ -25,11 +25,11 @@ export default function Index() {
       <View style={styles.container}>
         <View style={styles.counterstyle}><Text style={styles.contText}>{counter}</Text></View>
         <View style={styles.btnContainer}>
-          {/* dec */}
+          {/* - */}
           <TouchableOpacity style={styles.btn} onPress={decrementCounter}>
             <Text style={styles.btnText}>-</Text>
           </TouchableOpacity>
-          {/* inc */}
+          {/* + */}
           <TouchableOpacity style={styles.btn} onPress={incrementCounter}>
             <Text style={styles.btnText}>+</Text></TouchableOpacity>
         </View>
