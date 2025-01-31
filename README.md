@@ -4,7 +4,7 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 
 ## Screenshots:
 
-- <img src="https://github.com/user-attachments/assets/184b5a56-7252-4e6f-8e05-442b217235e4" alt="drawing" width="200"/>      <img src="https://github.com/user-attachments/assets/0f2a90c2-6f17-403c-9c53-97a1794d02c3" alt="drawing" width="200"/>
+- <img src="https://github.com/user-attachments/assets/184b5a56-7252-4e6f-8e05-442b217235e4" alt="drawing" width="200"/>    *****  <img src="https://github.com/user-attachments/assets/0f2a90c2-6f17-403c-9c53-97a1794d02c3" alt="drawing" width="200" />
 
 
 
